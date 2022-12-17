@@ -1,10 +1,10 @@
-<h3 align="center">안녕하세요👋. 니즈에 민감하게 반응하는 개발자 박양원입니다.</h3>
+<h1 align="center">안녕하세요👋. 니즈에 민감하게 반응하는 개발자 박양원입니다.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yangwon-park&label=Profile%20views&color=0e75b6&style=flat" alt="yangwon-park" /> </p>
 
-- 🌱 현재 백엔드에서 **SpringBoot를 공부하고 있습니다.**
+- 🌱 현재 **SpringBoot를 공부하고 있습니다.**
 
-- 👨‍💻 연락처 [01067731582](01067731582)
+- 👨‍💻 연락처 01067731582
 
 - 📝 Blog [https://yangwon-park.github.io/](https://yangwon-park.github.io/)
 
