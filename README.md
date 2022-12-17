@@ -6,11 +6,11 @@
 
 - 👨‍💻 연락처 01067731582
 
-- 📝 Blog [https://yangwon-park.github.io/](https://yangwon-park.github.io/)
+- 📝 Blog [**https://yangwon-park.github.io/**](https://yangwon-park.github.io/)
 
 - 📫 이메일 **ywonp94@gmail.com**
 
-- 📄 Notion 이력서 [https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5](https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5)
+- 📄 Notion 이력서 [**https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5**](https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5)
 
 <p align="left">
 </p>
