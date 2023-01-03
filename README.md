@@ -10,7 +10,6 @@
 
 - 📫 이메일 **ywonp94@gmail.com**
 
-- 📄 Notion 이력서 [**https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5**](https://www.notion.so/one-eya/16c18555fc1046a187915692fe8a75f5)
 
 <p align="left">
 </p>
