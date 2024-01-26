@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yangwon-park&label=Profile%20views&color=0e75b6&style=flat" alt="yangwon-park" /> </p>
 
-- 🌱 현재 백엔드 **Java - Spring을 공부하고 있습니다.**
+- 🌱 현재 백엔드 **Java - Spring 개발자로 재직 중 입니다.**
 
-- 👨‍💻 연락처 01067731582
+- 👨‍💻 요즘 Kotlin에 관심이 생겨 공부 중입니다.
 
 - 📝 Blog [**https://yangwon-park.github.io/**](https://yangwon-park.github.io/)
 
