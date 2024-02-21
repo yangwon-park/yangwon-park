@@ -6,7 +6,7 @@
 
 - 👨‍💻 요즘 Kotlin에 흥미를 느끼고 열심히 공부 중입니다.
 
-- 📝 Blog [**박양원의 Velog**]([https://yangwon-park.github.io/](https://velog.io/@yangwon-park/posts))
+- 📝 Blog [**박양원의 Velog**]([https://yangwon-park.github.io/](https://velog.io/@yangwon-park/posts])
 
 - 📫 이메일 **ywonp94@gmail.com**
 
