@@ -4,7 +4,7 @@
 
 - 🌱 현재 백엔드 **Java - Spring 개발자로 재직 중 입니다.**
 
-- 👨‍💻 요즘 Kotlin에 흥미를 느끼고 열심히 공부 중입니다.
+- 👨‍💻 요즘 Kotlin에 흥미를 느끼고 공부 중입니다.
 
 - 📝 Blog [**박양원의 Velog**](https://velog.io/@yangwon-park/posts)
 
